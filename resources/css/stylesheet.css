@@ -2,6 +2,10 @@
   display: flex;
 }
 
+.logo {
+  color: aquamarine;
+}
+
 header img {
   font-family: verdana;
 
