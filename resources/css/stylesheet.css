@@ -36,3 +36,7 @@ nav li {
 nav a {
   color: black;
 }
+
+ul {
+  list-style-type: none;
+}
