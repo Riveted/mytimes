@@ -1,5 +1,8 @@
 .header {
   display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 .logo {
@@ -7,6 +10,5 @@
 }
 
 header img {
-  font-family: verdana;
 
 }
