@@ -58,6 +58,7 @@ div {
   width: 100%;
   z-index: 1;
   padding-top: 116px;
+  position: relative;
 }
 
 
@@ -65,14 +66,17 @@ div {
 .column.large {
   width: 630px;
   margin-right: 32px;
+  display: flex;
 }
 
 .column.medium {
   width: 300px;
   margin-right: 32px;
+  display: flex;
 }
 
 .column.small {
   width: 240px;
   margin-right: 32px;
+  display: flex;
 }
